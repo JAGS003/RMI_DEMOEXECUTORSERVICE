@@ -1,0 +1,4 @@
+org/example/InvertedIndexServiceImpl.class
+org/example/InvertedIndexService.class
+org/example/InvertedIndexClient.class
+org/example/getFileContents.class

@@ -1,0 +1,4 @@
+grant {
+    permission java.security.AllPermission;
+    permission java.net.SocketPermission "155.248.230.141:8099", "listen";
+};
